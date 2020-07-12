@@ -49,7 +49,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.contact.list]]
         icon = "fas fa-globe"
         url = "cv.andhika.my.id"
-        text = "cv.masandhika.my.id"
+        text = "cv.andhika.my.id"
 
 
 
