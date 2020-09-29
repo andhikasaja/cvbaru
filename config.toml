@@ -268,7 +268,6 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
         [[params.information.list]]
         title = "License and Sertification"
-        Aspara Clouder - 
         [[params.information.list.items]]
         details = "July 2020 - July 2022 · Big Data Specialist Certification - Scale Python on Cloud · Alibaba Cloud"
         [[params.information.list.items]]
