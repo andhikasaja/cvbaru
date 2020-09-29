@@ -96,7 +96,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         university = "Vocational High School 1 Surabaya"
         dates = "2015 - 2018"
         [[params.education.list]]
-        degree = "S.Tr.T (B.AS) Automation Engineering Technology"
+        degree = "S.Tr.T (B.A.Sc) Automation Engineering Technology"
         university = "Institut Teknologi Sepuluh Nopember"
         dates = "2018 - 2022"
 
