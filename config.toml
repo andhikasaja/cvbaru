@@ -278,11 +278,11 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.information.list]]
         title = "Organization"
         [[params.information.list.items]]
-        details = "September 2020 - Present · Chairman · Surabaya Linux User Group (KLAS)"
+        details = "Sept 2020 - Present · Chairman · Surabaya Linux User Group (KLAS)"
         [[params.information.list.items]]
         details = "Jan 2020 - Present · Coordinator · Microelectronics and Embedded System Laboratory"
         [[params.information.list.items]]
-        details = "Dec 2019 - September 2020 · Training Staff · Surabaya Linux User Group (KLAS)"
+        details = "Dec 2019 - Sept 2020 · Training Staff · Surabaya Linux User Group (KLAS)"
         [[params.information.list.items]]
         details = "Sept 2016 - Sept 2017 · Coordinator of Research and Development Division · IT Club Vocational High School 1 Surabaya"
 
