@@ -268,6 +268,9 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
         [[params.information.list]]
         title = "License and Sertification"
+        Aspara Clouder - 
+        [[params.information.list.items]]
+        details = "July 2020 - July 2022 · Big Data Specialist Certification - Scale Python on Cloud · Alibaba Cloud"
         [[params.information.list.items]]
         details = "Sept 2019 - Sept 2022 · Network Engineer · National Professional Certification Board (BNSP)"
         [[params.information.list.items]]
@@ -276,9 +279,11 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.information.list]]
         title = "Organization"
         [[params.information.list.items]]
+        details = "September 2020 - Present · Chairman · Surabaya Linux User Group (KLAS)"
+        [[params.information.list.items]]
         details = "Jan 2020 - Present · Coordinator · Microelectronics and Embedded System Laboratory"
         [[params.information.list.items]]
-        details = "Dec 2019 - Present · Training Staff · Surabaya Linux User Group (KLAS)"
+        details = "Dec 2019 - September 2020 · Training Staff · Surabaya Linux User Group (KLAS)"
         [[params.information.list.items]]
         details = "Sept 2016 - Sept 2017 · Coordinator of Research and Development Division · IT Club Vocational High School 1 Surabaya"
 
