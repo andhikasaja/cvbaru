@@ -86,7 +86,11 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.education]
         enable = true
-
+    
+        [[params.education.list]]
+        degree = "Study Abroad: Asia University Summer Program 2020"
+        university = "Asia University, Taiwan"
+        dates = "2020"
         [[params.education.list]]
         degree = "Network and Computer Engineering"
         university = "Vocational High School 1 Surabaya"
@@ -106,6 +110,10 @@ googleAnalytics = "UA-XXXXXXX-Y"
     [params.awards]
         enable = true
 
+        [[params.awards.list]]
+        name = "5th Place National Business Competition 2020"
+        body = "University of Bangka Belitung"
+        date = "2020"
         [[params.awards.list]]
         name = "Finalist at 3D Conquest"
         body = "CIMB Indonesia"
