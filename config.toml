@@ -233,11 +233,15 @@ googleAnalytics = "UA-XXXXXXX-Y"
         company = "Credit Union Mandiri Jawa Timur"
         details = "Responsible as Network and System Designer at CU Mandiri Jawa Timur"
 
-
+            [[params.experience.list]]
+            title = "Internship at Directorate of Technology Development and Inforation System"
+            dates = "2016"
+            company = "Institut Teknologi Sepuluh Nopember"
+            details = "Internship with research field on network and system engineering"
 
 
     [params.internship]
-            enable = true
+            enable = false
        [[params.internship.list]]
         title = "Research and Development Team Engineer Internship"
         dates = "February 2021 - Present"
