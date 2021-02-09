@@ -92,13 +92,13 @@ googleAnalytics = "UA-XXXXXXX-Y"
         university = "Asia University, Taiwan"
         dates = "2020"
         [[params.education.list]]
-        degree = "Network and Computer Engineering"
-        university = "Vocational High School 1 Surabaya"
-        dates = "2015 - 2018"
-        [[params.education.list]]
         degree = "S.Tr.T (B.A.Sc) Automation Engineering Technology"
         university = "Institut Teknologi Sepuluh Nopember"
         dates = "2018 - 2022"
+        [[params.education.list]]
+        degree = "Network and Computer Engineering"
+        university = "Vocational High School 1 Surabaya"
+        dates = "2015 - 2018"
 
 
 
@@ -196,6 +196,18 @@ googleAnalytics = "UA-XXXXXXX-Y"
     [params.experience]
         enable = true
 
+       [[params.experience.list]]
+        title = "Research and Development Team Engineer Internship"
+        dates = "February 2021 - Present"
+        company = "PT Azka Mulia Internasional"
+        details = "Now iam currently doing another job on RnD division at PT Azka Mulia Internasional. Currently doing research on building sealing, and packing machines"
+
+        [[params.experience.list]]
+        title = "Automation Engineer Internship"
+        dates = "January 2021 - Present"
+        company = "PT Azka Mulia Internasional"
+        details = "Now i am currently taking an internship at PT Azka Mulia International as Automation Engineer internship. Now iam taking a responsibility to finish the unfinished Automation system at PT Azka Mulia International. As a part of the industry, Automation is an important things for industry to have. Besides of the Job safety issues, automation can make the process become very effective and efficient rather than using a manual process."
+
         [[params.experience.list]]
         title = "Computer Network Trainer"
         dates = "January - April 2020"
@@ -226,6 +238,17 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.internship]
             enable = true
+       [[params.internship.list]]
+        title = "Research and Development Team Engineer Internship"
+        dates = "February 2021 - Present"
+        company = "PT Azka Mulia Internasional"
+        details = "Now iam currently doing another job on RnD division at PT Azka Mulia Internasional. Currently doing research on building sealing, and packing machines"
+
+        [[params.internship.list]]
+        title = "Automation Engineer Internship"
+        dates = "January 2021 - Present"
+        company = "PT Azka Mulia Internasional"
+        details = "Now i am currently taking an internship at PT Azka Mulia International as Automation Engineer internship. Now iam taking a responsibility to finish the unfinished Automation system at PT Azka Mulia International. As a part of the industry, Automation is an important things for industry to have. Besides of the Job safety issues, automation can make the process become very effective and efficient rather than using a manual process."
 
             [[params.internship.list]]
             title = "Internship at Directorate of Technology Development and Inforation System"
@@ -241,6 +264,10 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
         [[params.projects.list]]
+        title = "Project Swave - Automatic Coffe Vending Machine based on IoT"
+        meta = "Swave Team of UPN Veteran Jawa Timur"
+        tagline = "The other day I received a request to make a beverage heater that can keep hot temperatures stable and is integrated with IoT. So, leaving from there, I made it for the machine according to the request, namely a machine that uses a PID controller for the heat controller, and is also connected to the android application using the MQTT communication protocol."
+        [[params.projects.list]]
         title = "Industrial Internet of Things Designer"
         meta = "PT Fans Indonesia"
         tagline = "Responsible for designing IoT monitoring system for Automation System at PT Fans Indonesia"
@@ -248,6 +275,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "Intelligent System Home Controlling (Internet of Things)"
         meta = "Open Source"
         tagline = "Designing Smart Home System for Telkom University IoT Competition 2017"
+
 
 
 
@@ -268,6 +296,12 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
         [[params.information.list]]
         title = "License and Sertification"
+
+
+        [[params.information.list.items]]
+        details = "July 2019 - forever · Facebook Digital Entrepreneurship program Online Academy Digital Talent Scholarship · Ministry of Technology and Communication Republic of Indonesia"
+        [[params.information.list.items]]
+        details = "July 2019 - forever · Registration Letter of Creation - Light Control and Data Acquisition Module DHT 11 Sensor With Blynk · Ministry of Law and Human Rights of the Republic of Indonesia"
         [[params.information.list.items]]
         details = "July 2020 - July 2022 · Big Data Specialist Certification - Scale Python on Cloud · Alibaba Cloud"
         [[params.information.list.items]]
