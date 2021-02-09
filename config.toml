@@ -271,6 +271,8 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "Project Swave - Automatic Coffe Vending Machine based on IoT"
         meta = "Swave Team of UPN Veteran Jawa Timur"
         tagline = "The other day I received a request to make a beverage heater that can keep hot temperatures stable and is integrated with IoT. So, leaving from there, I made it for the machine according to the request, namely a machine that uses a PID controller for the heat controller, and is also connected to the android application using the MQTT communication protocol."
+        [[params.projects.list.items]]
+        https://www.linkedin.com/feed/update/urn:li:activity:6763788682630586368/
         [[params.projects.list]]
         title = "Industrial Internet of Things Designer"
         meta = "PT Fans Indonesia"
